@@ -1,0 +1,9 @@
+ Cash inflows: Transactions backed by Level 1 assets,Secured Lending:  Level 1 assets
+ Cash inflows: Transactions backed by Level 2 assets,Secured Lending:  Level 2 assets with 15% haircut
+ Cash inflows : Transactions backed by Level 2(I) assets,Secured Lending:  Level 2 assets with 50% haircut
+ Cash inflows : Transactions backed by Level 2(II) non-RMBS assets,Secured Lending:  Margin lending backed by all other collateral
+Cash inflows: Transactions backed by Level 2(II) RMBS assets,Secured Lending:  All other collaterals
+ Cash inflows :Margin lending backed by non-Level 1 or non-Level 2 collateral,"Loans, Receivables and Other Credit Facilities:  Retail clients"
+ Cash inflows :Transactions backed by other collateral," Loans, Receivables and Other Credit Facilities:   Philippine NG; LGUs; GOCCs; sovereigns, PSEs of foreign countries; MDBs"
+," Loans, Receivables and Other Credit Facilities:  Non-financial corporates"
+," Loans, Receivables and Other Credit Facilities:  Banks; financial corporates; trust and other fiduciaries; beneficiaries; BSP; and central banks of foreign countries"
