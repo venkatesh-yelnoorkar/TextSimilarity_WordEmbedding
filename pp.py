@@ -1,6 +1,6 @@
-
-#l = ['hello my name is john', 'i like eating', 'i am going to a place called rajveik']
-#l = ['secure lending: level 1 assets', 'margin lending backed by non level 1 collateral']
+"""
+This is the preproceing function
+"""
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
